@@ -2,6 +2,6 @@
 
 from the command prompt clone the project
 
-$cd project-dir
+$cd project-dir 
 $npm install
 $npm start
